@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang= "id">
+  <head>
+    <title>Biografi Thomas Alva Edison </title>
+    <link rel="stylesheet" href="styles.css" />
+    <meta charset ="UTF-8">
+  </head>
+  <body>
+      <h1 class="title" align ="center">Biografi Thomas Alva Edison </h1>
+      <p id="currentTime"></p>
+      <img src ="https://qph.fs.quoracdn.net/main-qimg-02ee592ccf42782919e4a90cb1468b28-lq" alt = "gambar Thomas Alva Edison" height = "200" style = "display : block ; margin : 0 auto;   " >
+       <!-- sub topik satu -->
+       <h2 > Penemu Lampu </h2>
+      <p style = "text-align : justify"> <strong> Thomas Alva Edison </strong> Merupakan sosok yang diketahui sebagai penemu lampu yang terkenal pada Tahun 1879. Hingga sekarang ,Penemuannya banyak digunakan diseluruh belahan dunia dengan inovasi yang bervariasi  </p>
+       <!-- sub topik dua -->
+      <h2> Temuan dan Pengaruhnya </h2>
+      <p style = "text-align : justify">Kontribusi <strong>Thomas Alva Edison</strong> dalam membangun infrastruktur distribusi energi pada tahun 1882 menjadi fondasi awal bagi perkembangan perangkat keras informatika modern, karena sistem arus searah (DC) yang ia rintis kini menjadi jenis daya utama yang mengoperasikan komputer, ponsel pintar, dan pusat data di seluruh
+
+dunia. </p>
+      <p style ="text-align : justify">Pembangunan stasiun pembangkit
+
+listrik komersial pertamanya
+
+membuktikan bahwa energi dapat disalurkan secara terpusat untuk menggerakkan teknologi sistem informasi. Di samping menyediakan sumber daya energi, <strong> Edison</strong> juga mewariskan landasan penting bagi evolusi teknologi multimedia melalui penemuan fonograf dan kinetoskop yang memelopori konversi fenomena fisik berupa gelombang suara dan gerakan visual ke dalam bentuk rekaman media analog. Inovasi multimedia awal tersebut menjadi pemantik lahirnya teknik pemrosesan data audio-visual modern, yang dalam perkembangannya berevolusi menjadi format digital digital seperti MP3 dan MP4, platform streaming video, hingga sistem komunikasi multimedia interaktif yang kita gunakan dalam dunia
+
+informatika hari ini.</p>
+      <!-- sub topik tiga -->
+      <h2> Fakta Menarik tentang Edison </h2>
+      <h3> Meretas Kreativitas Lewat Tidur Siang Sengaja Jatuh </h3>
+
+      <p style = "text-align : justify"> <strong>Edison</strong> memiliki metode tidur siang yang sangat aneh untuk memancing ide jenius. Ia akan tidur di kursi sambil menggenggam bola besi atau kelereng di kedua tangannya, dengan sebuah nampan logam diletakkan tepat di lantai bawah tangannya</p>
+      <!-- sub topik empat -->
+      <h2> Hobi Thomas Alva Edison</h2>
+      <ul> 
+      <li> Berkemah</li>
+      <li> Membaca Buku </li>
+      <li> Menonton Film </li>
+      <li> Bermain Catur </li>
+      </ul>
+       <!-- sub topik Lima -->
+      <h2> Karya Karya Nya </h2>
+      <ol>
+        <Li> Fonograf (1877) </Li>
+        <li> Bola Lampu Pijar (1879) </li>
+        <li> Baterai Nikel-Besi dan Starter Mobil (1912) </li>
+      </ol>
+      <table border ="1">
+          <!-- Header Row -->
+          <tr>
+              <th><img src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlTCXATLFnpoMA4FqmDp0lIRybmPm-4QcisXN_chSJsA&s=10" width ="150"></th>
+              <th><img src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwwd1eaFSBOKTMLgu7xFktfXGU3hnNoLCeFoysYl8gzcgXk6qwINLopN0r&s=10" width ="150"></th>
+              <th><img src ="https://awsimages.detik.net.id/community/media/visual/2021/03/05/baterai-sumber-tenaga-mobil-listrik-ditemukan-120-tahun-sebelum-masanya.jpeg?w=1200" width ="150"></th>
+          </tr>
+          <tr> 
+          <td align ="center"> <a href ="https//instagram.com/fyy-1914"> <input type = "button" value ="Fonograf"> </a></td>
+          <td align ="center"> <a href ="https://youtu.be/dQw4w9WgXcQ?si=ENorphwz2yWFBa6s"> <input type ="button" value ="Bola Lampu Pijar"> </a></td>
+          <td align ="center"> <a href ="https://youtu.be/INJ6cPGX_mk?si=8w-NsyeSgv8aAOA1"> <input type = "button" value ="Baterai Nikel-Besi dan Starter Mobil"> </a></td>
+          </tr>
+      </table>
+      <script src="script.js"></script>
+  </body>
+</html>
